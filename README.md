@@ -49,6 +49,6 @@ The analysis is based on approximately 429,000 records from the Bureau of Transp
 The tuned Prophet Model displayed superior predictive performance, making it the most effective for operational planning and customer service enhancements. Our results can significantly impact resource optimization and strategic planning for Delta Airlines.
 
 ## Contributions
-- **Pranthi Cavuturu**: Focused on the Prophet Model, exploratory data analysis, and overall project coordination.
-- **Muhammad Harris**: Led the LSTM model development, data sourcing, and problem statement formulation.
-- **Hussain Kaide Johar Manasi**: Spearheaded the SARIMA model implementation and data preprocessing.
+- **Pranthi Cavuturu**: Worked on on the Prophet Model, exploratory data analysis, and overall project coordination.
+- **Muhammad Harris**: Worked on the LSTM model development, data sourcing, and problem statement formulation.
+- **Hussain Kaide Johar Manasi**: Worked on the SARIMA model implementation and data preprocessing.
