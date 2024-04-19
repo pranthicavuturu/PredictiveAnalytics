@@ -48,6 +48,19 @@ The analysis is based on approximately 429,000 records from the Bureau of Transp
 ## Conclusions
 The tuned Prophet Model displayed superior predictive performance, making it the most effective for operational planning and customer service enhancements. Our results can significantly impact resource optimization and strategic planning for Delta Airlines.
 
+## Running the Notebook on Google Colab
+To run the Jupyter Notebook in this repository on Google Colab, follow these steps:
+
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Click on `File` > `Open notebook`.
+3. Select the `GitHub` tab in the dialog that appears.
+4. Enter the URL of this GitHub repository and press `Enter`.
+5. Colab will list the notebooks in the repository. Click on the notebook you want to open.
+6. Once the notebook is open in Colab, you can run it by clicking on `Runtime` > `Run all` to execute all cells, or run each cell individually as needed.
+
+The notebook loads the dataset from the GitHub repository. This process will allow you to run the analysis without any local setup requirements, using the computing resources provided by Google Colab. 
+
+
 ## Contributions
 - **Pranthi Cavuturu**: Worked on on the Prophet Model, exploratory data analysis, and overall project coordination.
 - **Muhammad Harris**: Worked on the LSTM model development, data sourcing, and problem statement formulation.
