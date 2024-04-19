@@ -10,7 +10,7 @@ To run the Jupyter Notebook in this repository on Google Colab, follow these ste
 5. Colab will list the notebooks in the repository. Click on the PredictiveAnalyticsProject_Source_Code.ipynb to open.
 6. Once the notebook is open in Colab, you can run it by clicking on `Runtime` > `Run all` to execute all cells, or run each cell individually as needed.
 
-The notebook loads the dataset from the GitHub repository. This process will allow you to run the analysis without any local setup requirements, using the computing resources provided by Google Colab. 
+The notebook loads the dataset from the GitHub repository. This process will allow you the run without any local setup requirements, using the computing resources provided by Google Colab. 
 
 ## Overview
 This project aims to predict flight departure delays for Delta Airlines operating out of Hartsfield-Jackson Atlanta International Airport. By applying predictive analytics techniques, our team seeks to enhance operational efficiency, improve passenger experience, and minimize financial losses caused by flight delays.
